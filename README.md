@@ -1,5 +1,4 @@
 # Spring REST MySQL MyBatis XML 
----
 
 ```
 Tables involved
