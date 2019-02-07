@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-rest-mysql-mybatis-xml.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-rest-mysql-mybatis-xml)
+
 # Spring REST MySQL MyBatis XML 
 
 ```
